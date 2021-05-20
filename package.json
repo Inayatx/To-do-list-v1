@@ -1,0 +1,22 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "First version of to do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inayatx/To-do-list-v1.git"
+  },
+  "author": "Inayat Agaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inayatx/To-do-list-v1/issues"
+  },
+  "homepage": "https://github.com/Inayatx/To-do-list-v1#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}
